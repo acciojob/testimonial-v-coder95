@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.main{
+	backgroound-color:#f5f5f5;
+	padding:10px 10px;
+	padding-bottom:30px;
+}
+.p1{
+	padding:5px;
+	border:1px solid grey;
+	background-color:white;
+}
+.author{
+	text-align:right;
+	font-style:italic;
+}
